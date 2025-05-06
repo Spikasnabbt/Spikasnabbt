@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Spika Snabbt – Bemanning inom bygg och renovering</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1e3a8a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      background-color: white;
+    }
+    h1, h2 {
+      color: #1e3a8a;
+    }
+    footer {
+      background-color: #e5e5e5;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+      margin-top: 30px;
+    }
+    .cta {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background-color: #10b981;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .cta:hover {
+      background-color: #059669;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Spika Snabbt</h1>
+  <p>Snabb, billig och professionell bemanning inom bygg, renovering och måleri</p>
+</header>
+
+<main>
+  <h2>Välkommen!</h2>
+  <p>Vi erbjuder kvalificerad personal till byggföretag, målerifirmor och renoveringsprojekt – snabbt, effektivt och till rätt pris. Vi hyr inte ut till privatpersoner, endast till företag.</p>
+
+  <h2>Varför välja oss?</h2>
+  <ul>
+    <li>Snabba leveranser – vi hittar rätt personal när du behöver det.</li>
+    <li>Professionell bemanning – utbildad och erfaren personal.</li>
+    <li>Konkurrenskraftiga priser – vi håller det enkelt och kostnadseffektivt.</li>
+  </ul>
+
+  <a class="cta" href="mailto:info@spikasnabbt.se">Kontakta oss</a>
+</main>
+
+<footer>
+  &copy; 2025 Spika Snabbt. Alla rättigheter förbehållna.
+</footer>
+
+</body>
+</html>
